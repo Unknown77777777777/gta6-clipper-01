@@ -1,8 +1,8 @@
 # GTA 6's Craziest Chase — Jetski, Helicopter & Plane!
 
-![LIVE](https://make.fun/badge/gta6-clipper-01.svg)
-![Rank](https://make.fun/badge/gta6-clipper-01/Unknown77777777777/gta6-clipper-01/rank.svg)
-![Reward](https://make.fun/badge/gta6-clipper-01/Unknown77777777777/gta6-clipper-01/reward.svg)
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/Unknown77777777777/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/Unknown77777777777/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 
 A vertical YouTube Short cut from Rockstar Games' official **Grand Theft Auto VI Trailer 2**, entered in the make.fun bounty "Clip GTA 6 for the most YouTube views" ($500, top 20 share the prize, places by views at the deadline).
 
@@ -13,9 +13,9 @@ The trailer's climax chase, around 2:19–2:47 of Trailer 2: a helicopter huntin
 ## The clip
 
 - **0:00–0:10** — the hook: pure GTA 6 chase footage, vertical 9:16 crop (720×1280), captioned "GTA 6 IS FINALLY HERE".
-- **0:10–0:28** — the make.fun pitch as on-screen text over the continuing footage: "Make clips like this with AI and earn money on make.fun", then the bounty page `make.fun/bounty/gta6-clipper-01`, ending on the GTA VI logo card.
+- **0:10–0:28** — the make.fun pitch as on-screen text on its own separate segment (solid dark background, not over the footage): "Make clips like this with AI and earn money on make.fun", then the bounty page `make.fun/bounty/gta6-clipper-01`.
 
-Total length 27.8 seconds — a Short. Rendered with ffmpeg from the official trailer footage; the original trailer audio is kept.
+Total length 28.0 seconds — a Short. Rendered with ffmpeg from the official trailer footage; the original trailer audio is kept for the hook.
 
 ## The video is the entry
 
